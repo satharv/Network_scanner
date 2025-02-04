@@ -30,7 +30,7 @@ A comprehensive automated network scanning toolkit that orchestrates multiple sc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-recon-tool.git
+   git clone https://github.com/satharv/Network_scanner.git
    ```
 
 2. Install required packages:
@@ -61,20 +61,15 @@ A comprehensive automated network scanning toolkit that orchestrates multiple sc
 
 ## 🔧 Usage
 
-1. Run the main script:
-   ```bash
-   python3 main_scanner.py
-   ```
-
-2. Enter project details:
+1. Enter project details:
    - Choose to create new project or select existing one
    - Set number of concurrent scan sessions
 
-3. Add targets to scope:
+2. Add targets to scope:
    - Add IPs/domains to `scope.txt` in the project's nmap directory
    - Supports individual IPs, subnets, and domain names
 
-4. The tool will automatically:
+3. The tool will automatically:
    - Run full port scans
    - Extract open ports
    - Perform service detection
@@ -120,22 +115,8 @@ A comprehensive automated network scanning toolkit that orchestrates multiple sc
 - Be cautious with concurrent session numbers to avoid system overload
 - Always comply with target network's security policies
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/satharv)
