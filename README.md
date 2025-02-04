@@ -118,4 +118,4 @@ A comprehensive automated network scanning toolkit that orchestrates multiple sc
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/satharv)
+- GitHub: [@satharv](https://github.com/satharv)
