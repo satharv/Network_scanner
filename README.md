@@ -8,7 +8,6 @@ A comprehensive automated network scanning toolkit that orchestrates multiple sc
 
 ## 🚀 Features
 
-- **Automated Workflow**: Seamlessly runs all scanning phases in sequence
 - **Concurrent Scanning**: Utilizes tmux for parallel scan execution
 - **Organized Output**: Structured output directory for each project
 - **Service Detection**: Comprehensive service version detection
